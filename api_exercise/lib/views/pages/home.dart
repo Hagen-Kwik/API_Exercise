@@ -88,7 +88,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
-        title: const Text("Home Page"),
+        title: const Text("Hitung Ongkir"),
         centerTitle: true,
       ),
       body: // Adjust padding as needed
